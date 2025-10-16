@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ycweh6dSSXw=",
+  "success": true,
+  "projectFilePath": "/home/deli/source/deloAdventurWorksLT/deloAdventureWorksLT/DbProjectdeloAdventureWorksLT/DbProjectdeloAdventureWorksLT.sqlproj",
+  "expectedPackageFiles": [
+    "/home/deli/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/home/deli/.nuget/packages/microsoft.netframework.referenceassemblies.net20/1.0.3/microsoft.netframework.referenceassemblies.net20.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
